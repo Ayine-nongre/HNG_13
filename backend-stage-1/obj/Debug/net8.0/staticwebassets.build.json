@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JTPtFk779lGAbpmQ8X2iC8ISmWTjauTCBzme4wYVQgI=",
+  "Source": "backend-stage-1",
+  "BasePath": "_content/backend-stage-1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

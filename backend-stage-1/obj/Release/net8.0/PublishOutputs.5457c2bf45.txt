@@ -1,0 +1,12 @@
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/backend-stage-1
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/appsettings.Development.json
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/appsettings.json
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/backend-stage-1.dll
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/backend-stage-1.deps.json
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/backend-stage-1.runtimeconfig.json
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/backend-stage-1.pdb
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/Microsoft.AspNetCore.OpenApi.dll
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/Microsoft.OpenApi.dll
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/Swashbuckle.AspNetCore.Swagger.dll
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ayinenongre/Desktop/Projects/hng_13/backend-stage-1/out/Swashbuckle.AspNetCore.SwaggerUI.dll
